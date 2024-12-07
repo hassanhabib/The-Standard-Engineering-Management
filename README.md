@@ -6,7 +6,7 @@
 - [0.0 WHAT IS THIS BOOK?](https://github.com/hassanhabib/The-Standard-Engineering-Management/blob/main/0.%20Introduction/0.%20Introduction.md#00-what-is-this-book)
 - [0.1 WHY I WRITE THIS BOOK?](https://github.com/hassanhabib/The-Standard-Engineering-Management/blob/main/0.%20Introduction/0.%20Introduction.md#01-why-i-write-this-book)
 - [0.2 HOW TO READ THIS BOOK?](https://github.com/hassanhabib/The-Standard-Engineering-Management/blob/main/0.%20Introduction/0.%20Introduction.md#02-how-to-read-this-book)
-1. PROJECT
+[1. THE PROJECT](https://github.com/hassanhabib/The-Standard-Engineering-Management/blob/main/1.%20The%20Project/1.%20The%20Project.md)
 	- 1.0 VISION
 		- 1.0.0 PURPOSE/STATEMENT
 		- 1.0.1 AUDIENCE
